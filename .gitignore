@@ -25,6 +25,7 @@ ENV/
 # Sensitive files
 .env
 .mcp.json
+.cursor/mcp.json
 
 # OS
 .DS_Store
